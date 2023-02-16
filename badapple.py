@@ -1,7 +1,6 @@
 from datetime import datetime
 import time
 import os
-import pygame
 import pydub
 from pydub import AudioSegment
 file= open(r"C:/Users/User/Desktop/ALL Python projects/BadAppleWithPython/data.txt","r")
