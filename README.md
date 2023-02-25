@@ -1,5 +1,5 @@
 # Bad-Apple-With-Python
-A simple console programme that displays the Bad Apple video as text.
+A simple (but badly coded) console programme that displays the Bad Apple video as text.
 
 -----------------------------------------------------------------------------
 
